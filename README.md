@@ -1,2 +1,2 @@
 # CS410
-A brief documentation from my CS410
+A brief bit of documentation from my CS410
